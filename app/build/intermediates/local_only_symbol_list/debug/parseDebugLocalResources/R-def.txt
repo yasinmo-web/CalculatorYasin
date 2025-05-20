@@ -15,12 +15,11 @@ id btn7
 id btn8
 id btn9
 id btnClear
-id btnDivide
 id btnEquals
 id btnMinus
-id btnMultiply
 id btnPlus
-id main
+id gridLayout
+id tvFooter
 id tvResult
 layout activity_main
 mipmap ic_launcher

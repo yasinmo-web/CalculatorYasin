@@ -3220,10 +3220,8 @@ id btn7
 id btn8
 id btn9
 id btnClear
-id btnDivide
 id btnEquals
 id btnMinus
-id btnMultiply
 id btnPlus
 id buttonPanel
 id cache_measures
@@ -3332,6 +3330,7 @@ id ghost_view_holder
 id gone
 id graph
 id graph_wrap
+id gridLayout
 id group_divider
 id grouping
 id groups
@@ -3370,7 +3369,6 @@ id linear
 id listMode
 id list_item
 id m3_side_sheet
-id main
 id marquee
 id masked
 id match_constraint
@@ -3606,6 +3604,7 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvFooter
 id tvResult
 id unchecked
 id uniform
